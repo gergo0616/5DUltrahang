@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">5d_ultrahang2</string>
+    <string name="register">Regisztráció</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="password">Jelszó</string>
+    <string name="email">E-mail cím</string>
+    <string name="back">Vissza</string>
+    <string name="women">Nő</string>
+    <string name="men">Férfi</string>
+    <string name="passwordAgain">Jelszó megerősítése</string>
+    <string name="fname">Vezetéknév</string>
+    <string name="lname">Keresztnév</string>
+    <string name="loginGuest">Bejelentkezés vendégként</string>
+    <string name="loginGoogle">Bejelentkezés Google fiókkal</string>
+    <string name="date">Dátum</string>
+    <string name="booking">Foglalás</string>
+    <string name="booking_appointment">Időpont foglalás</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="item_info">Leírás</string>
+
+    <array name="booking_times">
+        <item>8:00</item>
+        <item>8:30</item>
+        <item>9:00</item>
+        <item>9:30</item>
+        <item>10:00</item>
+        <item>10:30</item>
+        <item>11:00</item>
+        <item>11:30</item>
+    </array>
+</resources>
